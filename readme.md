@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for my personal portfolio website! Thi
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio Website](https://your-deployed-url.com) *(Replace with actual deployed link if available)*
+🔗 [View Portfolio Website](https://prashantsinha666.github.io/Portfolio-website/)
 
 ---
 
@@ -83,11 +83,6 @@ portfolio/
 
 ---
 
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE) *(optional)*.
-
----
 
 ### ⭐ Show some love!
 
